@@ -25,5 +25,16 @@
     "color": "#5b31f9",
     "coinGeckoId": "tether",
     "matchingAsset": "USDT"
+    
+  },
+  "CHI": {
+    "name": "Chi Gastoken",
+    "code": "CHI",
+    "decimals": 0,
+    "contractAddress": "0x0000000000004946c0e9f43f4dee607b0ef1fa1c",
+    "color": "#5b31f9",
+    "coinGeckoId": "chi-gastoken",
+    "matchingAsset": "CHI"
+
   }
 }
